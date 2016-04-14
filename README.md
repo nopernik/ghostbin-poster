@@ -7,5 +7,10 @@ The paste will expire overnight (change it in source if you want)
 
 It is very useful when you need to transfer some files to compromised server.
 
-Usage:
+# Requirements
+
+pip install requests
+pip install bs4
+
+# Usage:
 ghostbin-poster INPUT_FILE
